@@ -1,4 +1,4 @@
-Introducing the Wiz-Bit Thermal IR Lens: The Future of Smart Vision
+Introducing the Wiz-Dimensional Thermal IR Lens: The Future of Smart Vision
 
 The Wiz-Dimensional Thermal IR Lens redefines smart eyewear, bringing real-time material 
 recognition, bio-sensing, and adaptive vision to the construction and industrial workspace. 
