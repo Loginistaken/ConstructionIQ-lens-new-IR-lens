@@ -1,7 +1,7 @@
 🔍 Core Features Breakdown
 
 Feature	Description
-Eye fixation tracking	Tracks retinal focus — after 5 seconds, activates measurement
+Eye fixation tracking	Tracks retinal focus — after 3 seconds, activates measurement
 Microchip computer	Embedded in the frame, no external computer
 Measurement via AR	Displays distances, angles, object dimensions in real-time
 LensClick button	Accesses manuals, tools, how-to guides, scrolls suggestions
@@ -108,7 +108,7 @@ Expandable Storage: MicroSD slot (optional)
 
 📷 INTERACTION FLOW EXAMPLE
 
-    🔧 Worker puts on glasses → sees a pipe → stares at it for 5 sec →
+    🔧 Worker puts on glasses → sees a pipe → stares at it for 3 sec →
     AR layer appears:
 
         Distance: 12.5 ft
